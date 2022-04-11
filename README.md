@@ -1,13 +1,21 @@
-## [Mohsen Azimi(mohsen-azimi.github.io)]
-<pre>
-- Ph.D. Student at UBC.
-- Computer Vision; Machine Leanring; Structural Health Monitoring
 
-</pre>
-
+# mohse-azimi
+<!--
+**mohsen-azimi/mohsen-azimi** 
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohsen-azimi&show_icons=true&count_private=true" alt="logo" height="180" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-###  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   ![Profile views](https://gpvc.arturio.dev/mohsen-azimi) 
+### [Mohsen Azimi(mohsen-azimi.github.io)] &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   ![Profile views](https://gpvc.arturio.dev/mohsen-azimi) 
 
-  
+- :mortar_board: Ph.D. Student at UBC.
+- :hammer: Computer Vision; Machine Leanring; Structural Health Monitoring
