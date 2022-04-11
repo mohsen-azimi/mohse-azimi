@@ -1,7 +1,7 @@
 ## Mohsen Azimi
 <pre>
-- :mortar_board: Ph.D. Student at UBC.
-- :hammer: Computer Vision; Machine Leanring; Structural Health Monitoring
+- Ph.D. Student at UBC.
+- Computer Vision; Machine Leanring; Structural Health Monitoring
 
 </pre>
 
